@@ -1,0 +1,7 @@
+1.Unet.py:Unet
+2.Unet_bias:Unet+bias
+3.Unet_bias_BN: Unet+bias+bn(instance/batch)
+===
+
+
++ loss,目前的结果有点饱和，loss无法进一步优化结果。
